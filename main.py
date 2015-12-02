@@ -3,6 +3,7 @@ __author__ = 'ee830804'
 import requests
 from pyquery import PyQuery as pq
 import re
+import codecs
 
 class YahooDictPaser():
     def __init__(self):
@@ -34,13 +35,18 @@ class YahooDictPaser():
 
         if len(self.partOfSpeech) > 0 and len(self.explain) > 0:
             pronunciation = self.pronunciation[0] if len(self.pronunciation)>0 else ''
-            print pronunciation,'\t', self.partOfSpeech[0],'\t', self.explain[0]
+            print engWord
+            return pronunciation+'\t'+self.partOfSpeech[0]+'\t'+self.explain[0]+'\n'
         else:
-            print '\t'
+            return '\t\n'
 
 
 if __name__ == '__main__':
     ydict = YahooDictPaser()
     file = open('word.txt', 'r')
+    outfile = codecs.open('output.txt','w', "utf-8")
     for word in file:
-        ydict.search(word)
+        out = ydict.search(word)
+        outfile.write(out)
+    file.close()
+    outfile.close()
