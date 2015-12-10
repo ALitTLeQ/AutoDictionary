@@ -19,6 +19,7 @@ class YahooDictPaser():
             str = re.sub('[^a-z\.]', '',str)
             return str
 
+        engWord = re.sub('\n', '',engWord)
         response = self.session.get(self.url + engWord).text
         d = pq(response)
 
@@ -35,8 +36,9 @@ class YahooDictPaser():
 
         if len(self.partOfSpeech) > 0 and len(self.explain) > 0:
             pronunciation = self.pronunciation[0] if len(self.pronunciation)>0 else ''
-            print engWord
-            return pronunciation+'\t'+self.partOfSpeech[0]+'\t'+self.explain[0]+'\n'
+
+            print engWord+'\t'+pronunciation+'\t'+ self.partOfSpeech[0]+'\t'+self.explain[0]
+            return engWord+'\t'+pronunciation+'\t'+ self.partOfSpeech[0]+'\t'+self.explain[0]+'\n'
         else:
             return '\t\n'
 

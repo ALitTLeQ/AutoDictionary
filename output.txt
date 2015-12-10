@@ -1,37 +1,37 @@
-[skrol]	n.	卷軸；裱成卷軸的古書；畫卷
+scroll	[skrol]	n.	卷軸；裱成卷軸的古書；畫卷
 	
 	
 	
 	
 	
-[͵fɪləˋdɛlfjə]	n.	費城
-[͵læɑdɪˋsɪə]	n.	為拉塔奇亞（Latakia）之古名
-[ˋtɛstə͵faɪ]	vi.	作證
-[riˋælətɪ]	n.	現實；真實
-[ɪkˋsprɛʃən]	n.	表達；表示
-[͵junəˋvɝs!]	a.	全體的；普遍的；一般的
-[ˋloketɪd]	a.	坐落的，位於的
-[rɪˋspɛktɪv]	a.	分別的；各自的
-[rɛv!ˋeʃən]	n.	揭示；暴露；顯示
-[əˋpɪr]	vi.	出現；顯露
-[ɪ͵lʌsˋtreʃən]	n.	說明，圖解，圖示
-	ph.	聖地牙哥
-[ˋenʃənt]	a.	古代的
-[ˋɛmpaɪr]	n.	帝國
-[ˋbaʊndrɪ]	n.	邊界，分界線
-[ˋikwəl]	a.	相等的；相當的；均等的
-[͵kɔrɪˋspɑnd]	vi.	符合，一致
-[ɔrˋden]	vt.	任命……為牧師（或神父等），授……以聖職
+Philadelphia	[͵fɪləˋdɛlfjə]	n.	費城
+Laodicea	[͵læɑdɪˋsɪə]	n.	為拉塔奇亞（Latakia）之古名
+testifies	[ˋtɛstə͵faɪ]	vi.	作證
+reality	[riˋælətɪ]	n.	現實；真實
+expression	[ɪkˋsprɛʃən]	n.	表達；表示
+universal	[͵junəˋvɝs!]	a.	全體的；普遍的；一般的
+located	[ˋloketɪd]	a.	坐落的，位於的
+respective	[rɪˋspɛktɪv]	a.	分別的；各自的
+Revelation	[rɛv!ˋeʃən]	n.	揭示；暴露；顯示
+appearing	[əˋpɪr]	vi.	出現；顯露
+illustration	[ɪ͵lʌsˋtreʃən]	n.	說明，圖解，圖示
+San Diego		ph.	聖地牙哥
+ancient	[ˋenʃənt]	a.	古代的
+Empire	[ˋɛmpaɪr]	n.	帝國
+boundary	[ˋbaʊndrɪ]	n.	邊界，分界線
+equals	[ˋikwəl]	a.	相等的；相當的；均等的
+corresponds	[͵kɔrɪˋspɑnd]	vi.	符合，一致
+ordain	[ɔrˋden]	vt.	任命……為牧師（或神父等），授……以聖職
 	
-[͵dʒʊrɪsˋdɪkʃən]	n	司法；司法權，審判權，裁判權
-[ˋkɑnstə͵tjut]	vt.	構成，組成
-[loˋkælətɪ]	n.	地區；場所，現場
-[ˋkɑrɪnθ]	n.	哥林斯（古希臘的商業、藝術中心）
-[ˋdɛfənɪt]	a.	明確的，確切的
-[vɔɪd]	a.	空的，空無所有的
-[ˋwʌnnɪs]	n.	單一性；同一性；統一性
-[ˋbriflɪ]	ad.	簡潔地，簡短地；簡單地說
-[dəˋvaɪn]	a.	神的，神性的
-[ˋtrɪnətɪ]	n.	三個（人或物）一組；三位一體
-[ˋdʒɛnjʊɪn]	a.	真的；非偽造的；名副其實的
-[ˋtraɪjun]	a.	三位一體的
+jurisdiction	[͵dʒʊrɪsˋdɪkʃən]	n	司法；司法權，審判權，裁判權
+constituted	[ˋkɑnstə͵tjut]	vt.	構成，組成
+localities	[loˋkælətɪ]	n.	地區；場所，現場
+Corinth	[ˋkɑrɪnθ]	n.	哥林斯（古希臘的商業、藝術中心）
+definite	[ˋdɛfənɪt]	a.	明確的，確切的
+void	[vɔɪd]	a.	空的，空無所有的
+oneness	[ˋwʌnnɪs]	n.	單一性；同一性；統一性
+Briefly	[ˋbriflɪ]	ad.	簡潔地，簡短地；簡單地說
+Divine	[dəˋvaɪn]	a.	神的，神性的
+Trinity	[ˋtrɪnətɪ]	n.	三個（人或物）一組；三位一體
+genuine	[ˋdʒɛnjʊɪn]	a.	真的；非偽造的；名副其實的
+Triune	[ˋtraɪjun]	a.	三位一體的
